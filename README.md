@@ -163,13 +163,7 @@ Algumas evoluções possíveis para o projeto são:
 - Integrar os dados processados a um banco de dados.
 - Orquestrar o processamento com Apache Airflow.
 - Evoluir o processamento para grandes volumes utilizando PySpark.
-
-## 👨‍💻 Autor
-
-**João Assum**
-
-[GitHub](https://github.com/joaoassum)
-
+  
 ---
 
 *Projeto desenvolvido como parte dos estudos em Engenharia de Dados, com foco em ETL, processamento de dados e visualização de informações.*
